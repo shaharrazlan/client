@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "ESNext",
+      "moduleResolution": "Node",
+      "jsx": "react-jsx",
+      "baseUrl": "./src", // Ensures imports work without extensions
+      "paths": {
+        "@components/*": ["components/*"], // Example alias
+        "@pages/*": ["pages/*"]
+      },
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "strict": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true
+    },
+    "include": ["src"],
+    "exclude": ["node_modules"]
+  }
+  

@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(to right, #28a1a7, #218838);
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .btn-success {
+    background: #28a745;
+    border: none;
+  }
+  
+  .btn-success:hover {
+    background: #218838;
+  }
+  
