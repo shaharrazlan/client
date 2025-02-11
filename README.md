@@ -30,9 +30,6 @@ Includes **Login, Registration, User Dashboard, Protected Routes, and Session Ha
 - [📂 Project Structure](#-project-structure)
 - [⚡ Quick Start](#-quick-start)
 - [📌 API Endpoints](#-api-endpoints)
-- [📷 Screenshots](#-screenshots)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
 
 ---
 
