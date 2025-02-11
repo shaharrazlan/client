@@ -2,12 +2,6 @@
 ```md
 # 🚀 User Authentication & Dashboard System 🔐
 
-![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=typescript)
-![.NET](https://img.shields.io/badge/Backend-ASP.NET%20Core-purple?style=for-the-badge&logo=dotnet)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb)
-![JWT](https://img.shields.io/badge/Auth-JWT-red?style=for-the-badge&logo=jsonwebtokens)
-
 A **modern authentication system** built with **React (TypeScript), ASP.NET Core, MongoDB**, and **JWT Authentication**.  
 Includes **Login, Registration, User Dashboard, Protected Routes, and Session Handling**.
 
